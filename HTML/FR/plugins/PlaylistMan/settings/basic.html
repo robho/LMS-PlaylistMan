@@ -1,0 +1,11 @@
+[% PROCESS settings/header.html %]
+
+[% WRAPPER setting title="PLUGIN_PLAYLISTMAN_FAV_PL" desc="PLUGIN_PLAYLISTMAN_FAV_PL_DESC" %]
+	<div class="settingSection">
+	[% FOREACH entry = FavouritePlaylistsList %]
+		<br/><input type="text" class="stdedit" name="FavouritePlaylists" id="FavouritePlaylists" value="[% entry %]" size="60" />
+	[% END %]
+	</div>
+[% END %]
+
+[% PROCESS settings/footer.html %]

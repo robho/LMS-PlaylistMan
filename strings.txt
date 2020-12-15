@@ -1,0 +1,125 @@
+PLUGIN_PLAYLISTMAN_NAME
+	EN	Playlist Manager
+	DE	Wiedergabelisten-Manager
+	DA	Styring af afspillingslister
+	FR	Gestion de Liste de Lecture
+	
+PLUGIN_PLAYLISTMAN_ADD_TO_PLAYLIST
+	EN	Add to playlist
+	DE	Zur Wiedergabeliste hinzufügen
+	DA	Tilføj til afspilningslisten
+	FR	Ajouter à la Liste de Lecture
+
+PLUGIN_PLAYLISTMAN_ADD_TO
+	EN	Add to ...
+	DE	Hinzufügen ...
+	DA	Tilføj til ...
+	FR	Ajouter à ...
+
+PLUGIN_PLAYLISTMAN_ADD_TRACK_TO
+	EN	Add track to ...
+	DE	Lied hinzufügen ...
+	DA	Tilføje nummer til ...
+	FR	Ajouter morceau à ...
+
+PLUGIN_PLAYLISTMAN_ZAP_TRACK
+	EN	Zap track
+	DE	Lied zappen
+	DA	Slet nummer
+	FR	Morceau zappé
+
+PLUGIN_PLAYLISTMAN_SAVE_NEW_PLAYLIST
+	EN	Save playlist
+	DE	Speichere Wiedergabliste
+	DA	Gem afspilningslisten
+	FR	Sauvegarder Liste de Lecture
+
+PLUGIN_PLAYLISTMAN_ADD_TRACK_TO_PLAYLIST
+	EN	Add track to which playlist?
+	DE	Zu welcher Wiedergabeliste hinzufügen?
+	DA	Til hvilken afspilningsliste skal nummeret tilføjes?
+	FR	Ajouter morceau à quelle Liste de Lecture ?
+
+PLUGIN_PLAYLISTMAN_CURRENT_PLAYLIST
+	EN	Current playlist
+	DE	Aktuelle Wiedergabeliste
+	DA	Nuværende afspilningsliste
+	FR	Liste de Lecture courante
+
+PLUGIN_PLAYLISTMAN_OTHER_PLAYLIST
+	EN	Other ...
+	DE	Andere ...
+	DA	Andre ...
+	FR	Autre ...
+
+PLUGIN_PLAYLISTMAN_NEW_PLAYLIST
+	EN	New Playlist
+	DE	Neue Wiedergabeliste
+	DA	Ny afspilningsliste
+	FR	Nouvelle Liste de Lecture
+
+PLUGIN_PLAYLISTMAN_ADD_TO_OTHER_PLAYLIST
+	EN	Add to which existing playlist?
+	DE	Zu welcher Wiedergabliste hinzufügen?
+	DA	Til hvilken eksisterende afspiliningsliste skal nummeret tilføjes?
+	FR	Ajouter morceau à quelle autre Liste de Lecture ?
+
+PLUGIN_PLAYLISTMAN_ADD_TO_NEW_PLAYLIST
+	EN	Add to playlist name
+	DE	Hinzufügen zu neuer Wiedergabliste
+	DA	Tilføj til ny afspilningsliste
+	FR	Ajouter à nouvelle Liste de Lecture
+
+PLUGIN_PLAYLISTMAN_SAVE_NEW_PLAYLIST_CONFIRM
+	EN	Confirm new playlist
+	DE	Neue Wiedergabeliste bestätigen
+	DA	Skal den ny afspilningsliste gemmes
+	FR	Confirmer nouvelle Liste de Lecture
+
+PLUGIN_PLAYLISTMAN_NO_PLAYLISTS
+	EN	No playlists
+	DE	Keine Wiedergabeliste vorhanden
+	DA	Ingen afspilningslister
+	FR	Pas de Liste de Lecture
+
+PLUGIN_PLAYLISTMAN_ADDING_TO_PLAYLIST
+	EN	Adding to %s playlist
+	DE	Hinzufügen zu %s Wiedergabeliste
+	DA	Tilføjes til afspilningslisten %s
+	FR	Ajouter à la Liste de Lecture %s
+	
+PLUGIN_PLAYLISTMAN_POPUP_TO_PLAYLIST
+	EN	to Playlist %s...
+	DE	zur Wiedergabeliste %s...
+	DA	afspilningslisten %s...
+	FR	à la liste %s...
+
+PLUGIN_PLAYLISTMAN_FAV_PL
+	EN	Favourite Playlists
+	DE	Lieblings-Wiedergabelisten
+	DA	Favorit afspilningslisten
+	FR	Liste de Lecture Favorite
+
+PLUGIN_PLAYLISTMAN_FAV_PL_DESC
+	EN	Enter the names of each playlist that you would like to access quickly on the playlist manager "Add to ..." menu.
+	DE	Gib die Namen der Wiedergabelisten ein, die schnell über das "Lied hinzufügen ..." Menü im Wiedergabelisten-Manager zugreifbar sein sollen.
+	DA	Skriv navnene på de afspilningslister som du vil kunne tilgå på menuen "Tilføj til ..."
+	FR	Entrer les noms de chaque Liste de Lecture à laquelle vous souhaitez accéder rapidement dans le menu "Ajouter à ..." 
+
+PLUGIN_PLAYLISTMAN_TRACKINFO_ACTION
+	EN	Playlist Manager
+	DE	Wiedergabelisten-Manager
+	DA	Styring af afspilningslister
+	FR	Gestion de Liste de Lecture
+
+PLUGIN_PLAYLISTMAN_CURRENT_NEXT
+	EN	Next in current playlist
+	DE	Als nächstes Lied der aktuellen Wiedergabeliste
+	DA	Næste nummer i den nuværende afspilningsliste
+	FR	Prochain morceau de la Liste de Lecture
+
+PLUGIN_PLAYLISTMAN_CURRENT_END
+	EN	End of current playlist
+	DE	Am Ende der aktuellen Wiedergabeliste
+	DA	Slut på den nuværende afspilningsliste
+	FR	Fin de la Liste de Lecture

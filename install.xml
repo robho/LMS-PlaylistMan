@@ -1,0 +1,17 @@
+<?xml version='1.0' standalone='yes'?>
+<extension>
+  <name>PLUGIN_PLAYLISTMAN_NAME</name>
+  <creator>Philip Meyer</creator>
+  <defaultState>enabled</defaultState>
+  <description>Provides functionality to add songs or albums to any chosen playlist.</description>
+  <email>phil@hergest.demon.co.uk</email>
+  <homepageURL>http://www.hergest.demon.co.uk</homepageURL>
+  <module>Plugins::PlaylistMan::Plugin</module>
+  <targetApplication>
+    <id>SlimServer</id>
+    <maxVersion>*</maxVersion>
+    <minVersion>7.4</minVersion>
+  </targetApplication>
+  <type>2</type>
+  <version>6.1</version>
+</extension>
