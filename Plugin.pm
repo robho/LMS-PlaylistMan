@@ -15,6 +15,8 @@
 
 use strict;
 
+use Encode;
+
 package Plugins::PlaylistMan::Plugin;
 use base qw(Slim::Plugin::Base);
 
@@ -799,7 +801,7 @@ sub AddToPlaylist
 	$log->info("Playlist plaintitle is: '$playlistTitle'");
 
    my $serverPrefs = preferences('server');
-	my $fileurl = Slim::Utils::Misc::fileURLFromPath(catfile($serverPrefs->get('playlistdir') . '/' . $playlist . '.m3u'));
+	my $fileurl = Slim::Utils::Misc::fileURLFromPath(catfile($serverPrefs->get('playlistdir') . '/' . Encode::encode("utf8", $playlist) . '.m3u'));
 
 	$log->info("fileurl=$fileurl");
 
